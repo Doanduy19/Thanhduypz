@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text1: "Chào các tín đồ của Duy!",
+  text2: "tau có điều này muốn xác minh nên để m chọn nhoé",
+  text3: "Đoàn Duy là người như thế nào trong mắt bạn nhỉ ? ._.",
+  text4: "Nếu cậu ko trả lời mà thoát ra tức là chẻ chou nhé hí hí",
+  text5: "Thiểu năng vcb",
+  text6: "Ôi làng nước ơi duy pro như 1 siêu nhân",
+  text7: "lí do duy pro là gì thế ? ._.",
+  text8: "Gửi cho đại ka duy",
+  text9: "Vì Duy đẳng cấp duy 10 điểm duy là số 1",
+  text10: "Muhahaha tau biết là tau pro mà đcm ngại vl",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "Nếu đã như thế thì sao không sùng bái duy đi chứ nhỉ :))))))",
+  text12: "Okii Duy muôn năm",
 };
 
 $(document).ready(function () {
